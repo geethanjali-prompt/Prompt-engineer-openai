@@ -39,3 +39,15 @@ This repository will track my complete learning path, notes, and projects to ach
 
 Thanks for following my journey! ❤️# Prompt-engineer-openai
 My journey to become a prompt engineer at openAi
+---
+
+## 📘 Lesson 12: What is Prompt Engineering?
+
+Prompt Engineering is the skill of designing effective instructions (called "prompts") to guide an AI like ChatGPT. A good prompt tells the AI clearly what kind of answer we want, how long it should be, what style to follow, and other details.
+
+This helps the AI give better, smarter answers.
+
+📝 Example Prompt:
+“Write a 100-word funny story about 
+a cat who opens a bakery in Paris. Use emojis!” 🐱🥐🍰
+
