@@ -98,5 +98,7 @@ Moksha danced in rain 🌧️, slipped on banana 🍌, shouted “I’m flying!�
 ---
 
 🔗 More coming soon...
+
 Act like an AI art teacher. I will give you a picture, and you should convert it into Studio Ghibli-style art. Maintain soft lighting, dreamy backgrounds, and anime-style details. Output should be a high-quality image.
 
+Act like a senior software engineer at OpenAI. I will ask you about the roles and responsibilities of software engineers, and you should explain them in 10 clear bullet points. Focus on how they work with AI models, tools, and research.
